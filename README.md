@@ -195,7 +195,7 @@ Through this project, I applied:
 
 ## 11. Author
 
-**Shanmukh Reddy**
+**Shanmukha Reddy**
 
 B.Tech – Computer Science and Engineering (Big Data)
 
