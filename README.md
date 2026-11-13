@@ -102,5 +102,7 @@ Run the queries in sql/quaries.sql in MySQL Workbench.
 Open dashboard/MediMetrics_Hospital_Analytics_Redesigned.pbix in Power BI Desktop and update the MySQL connection (Home → Transform data → Data source settings), then Refresh.
 
 Security: do not store database passwords in notebooks. Use getpass or environment variables, and add a .gitignore for credentials and local config.
+
 Author
-Shanmukha Reddy Data Analytics Project – MediMetrics Hospital Analytics
+
+<Your Name> · LinkedIn · GitHub · <your-email>
